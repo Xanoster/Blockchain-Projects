@@ -65,3 +65,4 @@ class Blockchain {
 module.exports = { Block, Blockchain };
 
 // Add Blockchain class
+// Implement hashing
