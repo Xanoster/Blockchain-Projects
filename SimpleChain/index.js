@@ -16,3 +16,4 @@ console.log('\nBlockchain:');
 console.log(JSON.stringify(myChain, null, 2));
 
 // Add demo script
+// Update demo
