@@ -69,3 +69,4 @@ module.exports = { Block, Blockchain };
 // Add proof of work
 // Implement mining
 // Add chain validation
+// Optimize mining
