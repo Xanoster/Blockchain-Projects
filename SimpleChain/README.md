@@ -32,3 +32,5 @@ Each block contains:
 - Nonce (for mining)
 
 The blockchain validates itself by checking that each block's hash matches and links correctly to the previous block.
+
+// Update documentation
