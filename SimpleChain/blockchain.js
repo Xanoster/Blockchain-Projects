@@ -71,3 +71,4 @@ module.exports = { Block, Blockchain };
 // Add chain validation
 // Optimize mining
 // Add comments
+// Refactor code
