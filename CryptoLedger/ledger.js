@@ -107,3 +107,4 @@ class CryptoLedger {
 module.exports = { CryptoLedger, Transaction, Block };
 
 // Implement CryptoLedger class
+// Add genesis block
