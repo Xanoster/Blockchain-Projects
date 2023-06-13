@@ -24,3 +24,4 @@ console.log('Balance of address2:', myCoin.getBalanceOfAddress('address2'));
 console.log('\nIs blockchain valid?', myCoin.isChainValid());
 
 // Add demo script
+// Update demo with transactions
