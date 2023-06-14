@@ -111,3 +111,4 @@ module.exports = { CryptoLedger, Transaction, Block };
 // Implement transaction creation
 // Add mining functionality
 // Implement mining rewards
+// Add pending transactions pool
