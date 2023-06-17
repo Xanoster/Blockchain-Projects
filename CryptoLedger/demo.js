@@ -25,3 +25,4 @@ console.log('\nIs blockchain valid?', myCoin.isChainValid());
 
 // Add demo script
 // Update demo with transactions
+// Add balance checking
