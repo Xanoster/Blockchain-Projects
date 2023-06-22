@@ -51,3 +51,5 @@ console.log(myCoin.getBalanceOfAddress('miner1'));
 
 - `ledger.js` - Core blockchain, transaction, and block classes
 - `demo.js` - Example usage and demonstration
+
+// Update documentation
