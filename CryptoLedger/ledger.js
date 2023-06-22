@@ -114,3 +114,4 @@ module.exports = { CryptoLedger, Transaction, Block };
 // Add pending transactions pool
 // Implement balance tracking
 // Add chain validation
+// Optimize hash calculation
