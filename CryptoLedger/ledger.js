@@ -116,3 +116,4 @@ module.exports = { CryptoLedger, Transaction, Block };
 // Add chain validation
 // Optimize hash calculation
 // Update difficulty level
+// Refactor transaction handling
