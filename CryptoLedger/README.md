@@ -54,3 +54,4 @@ console.log(myCoin.getBalanceOfAddress('miner1'));
 
 // Update documentation
 // Add usage examples
+// Add architecture section
