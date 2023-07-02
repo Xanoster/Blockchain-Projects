@@ -118,3 +118,4 @@ module.exports = { CryptoLedger, Transaction, Block };
 // Update difficulty level
 // Refactor transaction handling
 // Add error handling
+// Code cleanup
