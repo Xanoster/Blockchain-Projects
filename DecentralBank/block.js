@@ -37,3 +37,4 @@ class Block {
 module.exports = Block;
 
 // Create Block class
+// Add mining functionality
