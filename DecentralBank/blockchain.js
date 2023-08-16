@@ -115,3 +115,4 @@ class DecentralBank {
 module.exports = DecentralBank;
 
 // Initialize blockchain structure
+// Add genesis block
