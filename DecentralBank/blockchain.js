@@ -116,3 +116,4 @@ module.exports = DecentralBank;
 
 // Initialize blockchain structure
 // Add genesis block
+// Implement transaction pool
