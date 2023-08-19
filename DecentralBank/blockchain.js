@@ -118,3 +118,4 @@ module.exports = DecentralBank;
 // Add genesis block
 // Implement transaction pool
 // Add mining rewards
+// Implement balance tracking
