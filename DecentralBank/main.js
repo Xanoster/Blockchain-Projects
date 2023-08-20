@@ -55,3 +55,4 @@ const myTxs = bank.getAllTransactionsForWallet(myWalletAddress);
 console.log(`Total transactions for my wallet: ${myTxs.length}`);
 
 // Add demo script
+// Add wallet creation
