@@ -39,3 +39,5 @@ class Transaction {
 }
 
 module.exports = Transaction;
+
+// Add elliptic curve crypto
