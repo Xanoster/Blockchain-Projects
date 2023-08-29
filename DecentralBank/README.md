@@ -74,3 +74,5 @@ bank.minePendingTransactions(minerAddress);
 - ✅ Transaction validation
 - ✅ Chain integrity checks
 - ✅ Tamper-proof blocks
+
+// Update documentation
