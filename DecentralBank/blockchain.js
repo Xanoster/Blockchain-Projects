@@ -122,3 +122,4 @@ module.exports = DecentralBank;
 // Add transaction validation
 // Implement balance verification
 // Add transaction history
+// Improve chain validation
