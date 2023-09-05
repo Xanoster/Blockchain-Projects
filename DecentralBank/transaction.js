@@ -41,3 +41,4 @@ class Transaction {
 module.exports = Transaction;
 
 // Add elliptic curve crypto
+// Add error handling
