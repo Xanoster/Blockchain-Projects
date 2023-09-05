@@ -76,3 +76,4 @@ bank.minePendingTransactions(minerAddress);
 - ✅ Tamper-proof blocks
 
 // Update documentation
+// Add usage examples
