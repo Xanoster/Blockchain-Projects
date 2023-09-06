@@ -58,3 +58,4 @@ console.log(`Total transactions for my wallet: ${myTxs.length}`);
 // Add wallet creation
 // Add signed transactions
 // Add balance display
+// Add validation demo
