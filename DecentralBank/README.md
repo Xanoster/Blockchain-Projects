@@ -77,3 +77,4 @@ bank.minePendingTransactions(minerAddress);
 
 // Update documentation
 // Add usage examples
+// Add security features
