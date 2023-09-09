@@ -124,3 +124,4 @@ module.exports = DecentralBank;
 // Add transaction history
 // Improve chain validation
 // Optimize performance
+// Code refactoring
