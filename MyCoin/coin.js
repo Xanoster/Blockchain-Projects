@@ -99,3 +99,5 @@ class MyCoin {
 }
 
 module.exports = MyCoin;
+
+// Add hash calculation
