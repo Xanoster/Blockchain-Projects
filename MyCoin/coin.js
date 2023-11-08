@@ -103,3 +103,4 @@ module.exports = MyCoin;
 // Add hash calculation
 // Implement mining
 // Create MyCoin blockchain
+// Add genesis block
