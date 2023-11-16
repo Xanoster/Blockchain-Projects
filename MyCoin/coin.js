@@ -104,3 +104,4 @@ module.exports = MyCoin;
 // Implement mining
 // Create MyCoin blockchain
 // Add genesis block
+// Implement transactions
