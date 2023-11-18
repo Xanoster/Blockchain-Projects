@@ -106,3 +106,4 @@ module.exports = MyCoin;
 // Add genesis block
 // Implement transactions
 // Add transaction pool
+// Add mining rewards
