@@ -36,3 +36,4 @@ console.log(JSON.stringify(myCoin, null, 2));
 
 // Add demo script
 // Add transaction examples
+// Add balance display
