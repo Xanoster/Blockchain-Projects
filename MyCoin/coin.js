@@ -107,3 +107,4 @@ module.exports = MyCoin;
 // Implement transactions
 // Add transaction pool
 // Add mining rewards
+// Implement balance tracking
