@@ -74,3 +74,5 @@ console.log(myCoin.getBalanceOfAddress('miner1'));
 
 - `coin.js` - Main MyCoin blockchain class
 - `index.js` - Demo and usage examples
+
+// Update documentation
