@@ -109,3 +109,4 @@ module.exports = MyCoin;
 // Add mining rewards
 // Implement balance tracking
 // Add chain validation
+// Optimize mining
