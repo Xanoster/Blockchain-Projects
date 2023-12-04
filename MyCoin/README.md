@@ -76,3 +76,4 @@ console.log(myCoin.getBalanceOfAddress('miner1'));
 - `index.js` - Demo and usage examples
 
 // Update documentation
+// Add usage examples
