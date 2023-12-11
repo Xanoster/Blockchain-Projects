@@ -38,3 +38,4 @@ console.log(JSON.stringify(myCoin, null, 2));
 // Add transaction examples
 // Add balance display
 // Improve demo output
+// Add blockchain display
